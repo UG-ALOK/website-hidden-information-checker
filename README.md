@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/website-hidden-information-checker.git
+git clone https://github.com/UG-ALOK/website-hidden-information-checker.git
 ```
 Open the project directory:
 ```bash
